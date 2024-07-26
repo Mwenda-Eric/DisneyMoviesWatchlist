@@ -1,8 +1,10 @@
 using Microsoft.AspNetCore.Identity;
 using DisneyMoviesWatchlist.Src.DatabaseContext;
 using DisneyMoviesWatchlist.Src.Repository;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("DisneyMoviesDbContextConnection") ?? throw new InvalidOperationException("Connection string 'DisneyMoviesDbContextConnection' not found.");
 
 // Add services to the container.
 builder.Services.AddDbContext<DisneyMoviesDbContext>();

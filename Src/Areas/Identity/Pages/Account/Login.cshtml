@@ -1,50 +1,83 @@
 ﻿@page
-@model LoginModel
+@model Microsoft.AspNetCore.Identity.UI.V5.Pages.Account.Internal.LoginModel
 
 @{
     ViewData["Title"] = "Log in";
 }
+
 <partial name="_HeaderPartial" />
 <div class="image-header contact">
     <div class="image-header-overlay contact-overlay">
         <div class="container w-container">
             <div class="contact-block">
-                <div class="form-title-wrapper">
-                    <div class="form-title">Use a local account to log in</div>
-                    <h1 class="subpage-title large">Log In</h1>
-                </div>
-                <div class="form w-form">
-                    <form id="account" method="post">
-                        <div class="form-row w-row">
-                            <div class="form-column w-col w-col-6">
-                                <input asp-for="Input.Email" class="text-field w-input" autocomplete="off"
-                                    aria-required="true" placeholder="Your Email" />
-                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            <h1 class="subpage-title small">@ViewData["Title"]</h1>
+            <div class="row">
+                <div class="col-md-4">
+                    <section>
+                        <form id="account" method="post">
+                            <div class="form-title-wrapper">
+                                <div class="form-title">Use a local account to log in</div>
+                                @*
+                                <h1 class="subpage-title small">Log In</h1>
+                            *@
                             </div>
-                            <div class="form-column w-col w-col-6"><input asp-for="Input.Password" type="password"
-                                    class="text-field w-input" placeholder="Your Password" required="true" autocomplete="off">
-                                    
-                            <span asp-validation-for="Input.Password" class="text-danger"></span></div>
-                        </div>
+                            <!-- -->
+                            <div class="form-row w-row">
+                                <div class="form-column w-col w-col-6">
+                                    <input asp-for="Input.Email" class="text-field w-input" autocomplete="off"
+                                           aria-required="true" placeholder="Your Email"/>
+                                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-column w-col w-col-6">
+                                    <input asp-for="Input.Password" type="password"
+                                           class="text-field w-input" placeholder="Your Password" required="true" autocomplete="off">
 
-                        <button id="registerSubmit" type="submit" class="button color w-button">Login</button>
-                        <div asp-validation-summary="ModelOnly" class="w-form-fail" role="alert"></div>
-                        
-                        <div class="form-title">Login With Google</div>
-                        <button id="loginWithGoogle" type="submit" class="button color w-button">Login Using GOOGLE</button>
-                    </form>
-                    <div class="w-form-note">
-                        <div>Don't have an account?
-                            <a asp-page="./Register"
-                               asp-route-returnUrl="@Model.ReturnUrl">Sign up!</a></div>
-                    </div>
+                                    <span asp-validation-for="Input.Password" class="text-danger"></span></div>
+                            </div>
+
+                            <button id="registerSubmit" type="submit" class="button color w-button">Login</button>
+                            <div asp-validation-summary="ModelOnly" class="w-form-fail" role="alert"></div>
+                            <!-- -->
+                        </form>
+                    </section>
                 </div>
+                <div class="col-md-6 col-md-offset-2">
+                    <section>
+                        <h3>Login Using Google</h3>
+                        <hr />
+                        @{
+                            if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                            {
+                                <div>
+                                    <p>
+                                        There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
+                                            about setting up this ASP.NET application to support logging in via external services</a>.
+                                    </p>
+                                </div>
+                            }
+                            else
+                            {
+                                <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                                    <div>
+                                        <p>
+                                            @foreach (var provider in Model.ExternalLogins!)
+                                            {
+                                                <button type="submit" class="button color w-button" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">Login With @provider.DisplayName</button>
+                                            }
+                                        </p>
+                                    </div>
+                                </form>
+                            }
+                        }
+                    </section>
+                </div>
+            </div>
             </div>
         </div>
     </div>
 </div>
 
-<script>window.alert = function() {};</script>
+
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }

@@ -1,5 +1,5 @@
 ﻿@page
-@model RegisterModel
+@model Microsoft.AspNetCore.Identity.UI.V5.Pages.Account.Internal.RegisterModel
 @{
     ViewData["Title"] = "Register";
 }
@@ -9,36 +9,62 @@
     <div class="image-header-overlay contact-overlay">
         <div class="container w-container">
             <div class="contact-block">
-                <div class="form-title-wrapper">
-                    <div class="form-title">Create a new account</div>
-                    <h1 class="subpage-title large">Register</h1>
-                </div>
-                <div class="form w-form">
-                    <form id="account" asp-route-returnUrl="@Model.ReturnUrl" method="post">
-                        <div class="form-row w-row">
-                            <div class="form-column w-col w-col-6">
-                                <input asp-for="Input.Email" class="text-field w-input" autocomplete="off"
-                                    aria-required="true" placeholder="Your Email" />
-                                <span asp-validation-for="Input.Email" class="text-danger"></span>
-                            </div>
-                            <div class="form-column w-col w-col-6"><input asp-for="Input.Password" type="password"
-                                    class="text-field w-input" placeholder="Your Password" required="true"
-                                    autocomplete="off">
-                                <span asp-validation-for="Input.Password" class="text-danger"></span>
-                            </div>
-                            <div class="form-column w-col w-col-6"><input asp-for="Input.ConfirmPassword" type="password"
-                                    class="text-field w-input" placeholder="Confirm Password" required="true"
-                                    autocomplete="off">
-                                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
-                            </div>
-                        </div>
+                <h1 class="subpage-title small">@ViewData["Title"]</h1>
+                <div class="row">
+                    <div class="col-md-4">
+                        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
 
-                        <button id="registerSubmit" type="submit" class="button color w-button">Register</button>
-                        <div asp-validation-summary="ModelOnly" class="w-form-fail" role="alert"></div>
-                    </form>
-                    <div class="w-form-note">
-                        <div>Already have an account? <a asp-page="./Login" asp-route-returnUrl="@Model.ReturnUrl">Log
-                                in!</a></div>
+                            <div class="form-row w-row">
+                                <div class="form-column w-col w-col-6">
+                                    <input asp-for="Input.Email" class="text-field w-input" autocomplete="off"
+                                           aria-required="true" placeholder="Your Email" />
+                                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-column w-col w-col-6"><input asp-for="Input.Password" type="password"
+                                                                              class="text-field w-input" placeholder="Your Password" required="true"
+                                                                              autocomplete="off">
+                                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                                </div>
+                                <div class="form-column w-col w-col-6"><input asp-for="Input.ConfirmPassword" type="password"
+                                                                              class="text-field w-input" placeholder="Confirm Password" required="true"
+                                                                              autocomplete="off">
+                                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <button id="registerSubmit" type="submit" class="button color w-button">Register</button>
+                            <div asp-validation-summary="ModelOnly" class="w-form-fail" role="alert"></div>
+                        </form>
+                    </div>
+                    <div class="col-md-6 col-md-offset-2">
+                        <section>
+                            <h3>Register Using Google</h3>
+                            <hr />
+                            @{
+                                if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                                {
+                                    <div>
+                                        <p>
+                                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
+                                                about setting up this ASP.NET application to support logging in via external services</a>.
+                                        </p>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                                        <div>
+                                            <p>
+                                                @foreach (var provider in Model.ExternalLogins!)
+                                                {
+                                                    <button type="submit" class="button color w-button" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">Register Using @provider.DisplayName</button>
+                                                }
+                                            </p>
+                                        </div>
+                                    </form>
+                                }
+                            }
+                        </section>
                     </div>
                 </div>
             </div>
@@ -46,7 +72,6 @@
     </div>
 </div>
 
-<script>window.alert = function () { };</script>
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }

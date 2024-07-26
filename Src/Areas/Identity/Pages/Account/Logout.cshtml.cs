@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace DisneyMoviesWatchlist.Src.Areas.Identity.Pages.Account
+namespace DisneyMoviesWatchlist.Areas.Identity.Pages.Account
 {
     public class LogoutModel : PageModel
     {
@@ -33,6 +33,8 @@ namespace DisneyMoviesWatchlist.Src.Areas.Identity.Pages.Account
             }
             else
             {
+                // This needs to be a redirect so that the browser performs a new
+                // request and the identity for the user gets updated.
                 return RedirectToPage();
             }
         }
