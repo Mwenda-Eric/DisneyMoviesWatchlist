@@ -1,0 +1,38 @@
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<div data-animation="over-right" class="navbar w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium"
+    role="banner" data-no-scroll="1" data-duration="400" data-doc-height="1">
+    <div class="container w-container">
+        <a asp-page="/Index" aria-current="page" class="logo-link-block align-left w-nav-brand" aria-label="home">
+        <h1 class="logo small">Disney</h1>
+        </a>
+        <nav role="navigation" class="nav-menu w-nav-menu" style="transform: translateX(0px) translateY(0px);">
+            <a asp-page="/Index" aria-current="page" class="nav-link w-nav-link" style="max-width: 1200px;">Home</a>
+
+            <a asp-page="/Watchlist" class="nav-link w-nav-link" style="max-width: 1200px;">Watchlist</a>
+
+            <a asp-page="/About" class="nav-link w-nav-link" style="max-width: 1200px;">About</a>
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <form id="logoutForm" class="nav-link w-nav-link" asp-area="Identity" asp-page="/Account/Logout"
+                    asp-route-returnUrl="@Url.Page("/Index", new { area = "" })">
+                    <button style="background-color:transparent;margin-left: -5px;" id="logout" type="submit">Logout</button>
+                </form>
+            }
+            else
+            {
+                <a class="nav-link w-nav-link" id="register" asp-area="Identity" asp-page="/Account/Register">Register</a>
+
+                <a class="nav-link w-nav-link" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a>
+            }
+        </nav>
+        <div class="menu-button w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button"
+            tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
+            <div class="w-icon-nav-menu"></div>
+        </div>
+    </div>
+    <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0" style="display: none;"></div>
+    <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div>
+</div>

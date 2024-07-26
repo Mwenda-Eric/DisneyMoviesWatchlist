@@ -1,0 +1,535 @@
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/appsettings.json
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.staticwebassets.runtime.json
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.exe
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.deps.json
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.runtimeconfig.json
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.pdb
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Humanizer.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Build.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.Common.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.Configuration.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.Frameworks.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.LibraryModel.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.Packaging.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.ProjectModel.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.Protocol.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/NuGet.Versioning.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Composition.Convention.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Composition.Hosting.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Composition.Runtime.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Composition.TypedParts.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/af/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ar/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/az/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/bg/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/cs/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/da/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/de/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/el/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/es/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fa/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/he/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/hr/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/hu/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/hy/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/id/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/is/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/it/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ja/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ku/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/lv/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/mt/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/nb/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/nl/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pl/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pt/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ro/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ru/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/sk/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/sl/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/sr/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/sv/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/tr/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/uk/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/vi/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.csproj.AssemblyReference.cache
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.AssemblyInfoInputs.cache
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.AssemblyInfo.cs
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.csproj.CoreCompileInputs.cache
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.RazorAssemblyInfo.cache
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.RazorAssemblyInfo.cs
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/staticwebassets/msbuild.DisneyMoviesWatchlist.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/staticwebassets/msbuild.build.DisneyMoviesWatchlist.props
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.DisneyMoviesWatchlist.props
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.DisneyMoviesWatchlist.props
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/scopedcss/bundle/DisneyMoviesWatchlist.styles.css
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/scopedcss/projectbundle/DisneyMoviesWatchlist.bundle.scp.css
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.csproj.CopyComplete
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/refint/DisneyMoviesWatchlist.dll
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.pdb
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.genruntimeconfig.cache
+C:/Users/user/Pictures/DisneyMoviesWatchlist-master/Src/obj/Debug/net7.0/ref/DisneyMoviesWatchlist.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/appsettings.Development.json
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/appsettings.json
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.staticwebassets.runtime.json
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/DisneyMoviesWatchlist
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.deps.json
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.runtimeconfig.json
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/DisneyMoviesWatchlist.pdb
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Humanizer.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Build.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Build.Framework.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Features.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.DiaSymReader.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.NET.StringTools.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/dotnet-aspnet-codegenerator-design.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.Common.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.Configuration.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.LibraryModel.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.Packaging.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.ProjectModel.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.Protocol.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/NuGet.Versioning.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.CodeDom.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Composition.AttributedModel.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Composition.Convention.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Composition.Hosting.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Composition.Runtime.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Composition.TypedParts.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Reflection.MetadataLoadContext.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/af/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ar/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/az/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/bg/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/bn-BD/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/cs/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/da/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/de/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/el/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/es/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fa/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fi-FI/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr-BE/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/he/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/hr/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/hu/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/hy/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/id/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/is/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/it/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ja/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ko-KR/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ku/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/lv/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ms-MY/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/mt/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/nb/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/nb-NO/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/nl/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pl/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pt/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ro/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ru/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/sk/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/sl/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/sr/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/sr-Latn/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/sv/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/th-TH/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/tr/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/uk/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/vi/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-CN/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hans/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hant/Humanizer.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.csproj.AssemblyReference.cache
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.AssemblyInfoInputs.cache
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.AssemblyInfo.cs
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.csproj.CoreCompileInputs.cache
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.MvcApplicationPartsAssemblyInfo.cs
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.MvcApplicationPartsAssemblyInfo.cache
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.RazorAssemblyInfo.cache
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.RazorAssemblyInfo.cs
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/staticwebassets/msbuild.DisneyMoviesWatchlist.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/staticwebassets/msbuild.build.DisneyMoviesWatchlist.props
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.DisneyMoviesWatchlist.props
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.DisneyMoviesWatchlist.props
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/staticwebassets.build.json
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/staticwebassets.development.json
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/scopedcss/bundle/DisneyMoviesWatchlist.styles.css
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/scopedcss/projectbundle/DisneyMoviesWatchlist.bundle.scp.css
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.csproj.CopyComplete
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/refint/DisneyMoviesWatchlist.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.pdb
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/DisneyMoviesWatchlist.genruntimeconfig.cache
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/ref/DisneyMoviesWatchlist.dll
+/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Google.dll

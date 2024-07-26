@@ -1,0 +1,99 @@
+@page "{MovieId:int}"
+@model MovieModel
+@{
+    ViewData["Title"] = @Model.DisneyMovie?.Title ?? "404";
+}
+<div class="navbar-wrapper-fixed">
+    <partial name="_HeaderPartial" />
+</div>
+
+
+@if (Model.DisneyMovie != null)
+{
+    <div style="background-image:url(&quot;@Model.DisneyMovie.Image&quot;)" class="dynamic-page-header">
+        <div data-w-id="fb504413-d5b4-3ca2-7c6c-2e8872f7d460" class="dynamic-header-overlay"
+            style="will-change: background; background-color: rgba(7, 24, 34, 0.8);">
+            <div class="container w-container">
+                <div class="header-content-block"
+                    style="will-change: transform, opacity; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; opacity: 1;">
+                    <div style="background-image: url(&quot;@Model.DisneyMovie.Image&quot;); transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                        class="header-thumbnail-image">
+
+                        <div style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
+                            class="review-circle">
+                            <div class="review-circle-title">@Model.DisneyMovie.Rating</div>
+                        </div>
+                        @if (SignInManager.IsSignedIn(User))
+                        {
+                            <form method="post">
+                                @if (!Model.Bookmarked(Model.DisneyMovie.MovieId))
+                                {
+                                    <div class="bookmark-circle review-circle">
+                                        <button title='add "@Model.DisneyMovie.Title" to your Watchlist' style="background-color:transparent;height:30px;" asp-page-handler="Add" asp-route-MovieId="@Model.DisneyMovie.MovieId">
+                                            <span style="font-size:1.3em" class="material-symbols-outlined">
+                                                bookmark_add
+                                            </span>
+                                        </button>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="bookmark-circle review-circle">
+                                        <button title='remove "@Model.DisneyMovie.Title" from your Watchlist' style="background-color:transparent;
+                                                    height:30px;" asp-page-handler="Remove"
+                                            asp-route-MovieId="@Model.DisneyMovie.MovieId">
+                                            <span style="font-size:1.3em" class="material-symbols-outlined">
+                                                bookmark
+                                            </span>
+                                        </button>
+
+                                    </div>
+                                }
+                            </form>
+                        }
+                    </div>
+                    <h1 class="header-title">@Model.DisneyMovie.Title</h1>
+                    <div class="info-wrapper on-review-page">
+                        <div class="info-block"><img
+                                src="https://assets.website-files.com/59f5ab35fccfea0001f70443/5a0973aee1339f0001a7cebe_tag.svg"
+                                alt="" class="info-block-icon">@Model.DisneyMovie.Genre</div>
+                        <div class="info-block"><img
+                                src="https://assets.website-files.com/59f5ab35fccfea0001f70443/5a0973abd092d00001df9c0e_clock.svg"
+                                alt="" class="info-block-icon">
+                            <div class="info-title">@Model.DisneyMovie.Year</div>
+                        </div>
+                    </div>
+                    <p class="header-short-description">@Model.DisneyMovie.Summary</p>
+                    <div class="header-info-block">
+                        <div class="header-info-item">
+                            <div class="header-info-title bold">Duration:</div><br />
+                            <div class="header-info-title">@Model.DisneyMovie.Runtime</div>
+                        </div>
+
+                        <div class="header-info-item">
+                            <div class="header-info-title bold">Cast:</div><br />
+                            <div class="header-info-title">@Model.DisneyMovie.Stars</div>
+                        </div>
+                        <div class="header-info-item">
+                            <div class="header-info-title bold">Director:</div><br />
+                            <div class="header-info-title">@Model.DisneyMovie.Directors
+                            </div>
+                        </div>
+                        <div class="header-info-item">
+                            <a href="https://www.imdb.com/@Model.DisneyMovie.Link"
+                                title="go to @Model.DisneyMovie.Title's IMDB page"><img src="~/IMDB.svg"
+                                    class="info-block-icon" style="scale: 1.5;
+                                    margin-top:20px" /></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="section" style="height:100%;">
+        <div class="section-message">404, Movie does not exist.</div>
+    </div>
+}

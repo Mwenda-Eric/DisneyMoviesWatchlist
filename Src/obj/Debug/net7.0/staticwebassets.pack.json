@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/obj/Debug/net7.0/scopedcss/projectbundle/DisneyMoviesWatchlist.bundle.scp.css",
+      "PackagePath": "staticwebassets/DisneyMoviesWatchlist.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/IMDB.svg",
+      "PackagePath": "staticwebassets/IMDB.svg"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/bg.jpg",
+      "PackagePath": "staticwebassets/bg.jpg"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/disney.svg",
+      "PackagePath": "staticwebassets/disney.svg"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/footer-pic.jfif",
+      "PackagePath": "staticwebassets/footer-pic.jfif"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/frozen.jpg",
+      "PackagePath": "staticwebassets/frozen.jpg"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/lion_king.jpg",
+      "PackagePath": "staticwebassets/lion_king.jpg"
+    },
+    {
+      "Id": "/Users/EricM/Eric Mwenda/Freelance/Movie App Final/Src/wwwroot/moana.jpg",
+      "PackagePath": "staticwebassets/moana.jpg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.DisneyMoviesWatchlist.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.DisneyMoviesWatchlist.props",
+      "PackagePath": "build\\DisneyMoviesWatchlist.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.DisneyMoviesWatchlist.props",
+      "PackagePath": "buildMultiTargeting\\DisneyMoviesWatchlist.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.DisneyMoviesWatchlist.props",
+      "PackagePath": "buildTransitive\\DisneyMoviesWatchlist.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

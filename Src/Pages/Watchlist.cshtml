@@ -1,0 +1,70 @@
+@page
+@model WatchlistModel
+@{
+    ViewData["Title"] = "Watchlist page";
+}
+
+<partial name="_HeaderPartial" />
+
+@if (Model.Movies != null)
+{
+    @if (!Model.Movies.Any())
+    {
+        <div class="section">
+            <div class="section-message">no Movies in your WatchList rigth now.</div>
+        </div>
+    }
+    else
+    {
+        <div id="movies" class="section">
+            <div class="container w-container">
+                <div class="section-title-wrapper align-left">
+                    <h1 class="section-title">Watchlist<br></h1>
+                </div>
+                <div class="item-list-wrapper w-dyn-list">
+                    <div role="list" class="item-list w-dyn-items w-row">
+                        @foreach (var movie in Model.Movies)
+                        {
+                            <div role="listitem" class="item w-dyn-item w-col w-col-3">
+                                <div class="item-block">
+                                    <a asp-page="./Movie" asp-route-MovieId="@movie.MovieId"
+                                        style="background-image:url(&quot;@movie.Image&quot;)"
+                                        class="item-image-block poster-format w-inline-block">
+                                    </a>
+                                    <div class="item-number" style="right:51px">@movie.Rating</div>
+                                    <form method="post">
+                                        <div class="item-number" style="right:-51px">
+                                            <button title='remove "@movie.Title" from your Watchlist' style="background-color:transparent;
+                                                    height:30px;" asp-page-handler="Remove"
+                                                asp-route-MovieId="@movie.MovieId">
+                                                <span class="material-symbols-outlined">
+                                                    bookmark
+                                                </span>
+                                            </button>
+                                        </div>
+                                    </form>
+                                    <a asp-page="./Movie" asp-route-MovieId="@movie.MovieId" class="item-block-title">@movie.Title
+                                    </a>
+                                    <div class="info-wrapper small">
+                                        <div class="info-block">
+                                            <img src="https://assets.website-files.com/59f5ab35fccfea0001f70443/5a0973aee1339f0001a7cebe_tag.svg"
+                                                alt="" class="info-block-icon small">
+                                            @movie.Genre
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div class="section">
+        <div class="section-message">No Movies are available right now.</div>
+    </div>
+}
+<partial name="_FooterPartial" />

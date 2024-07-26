@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+html {
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+.section-message {
+  margin-top: 2rem;
+  color: #8ea3b3;
+  font-size: 35px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.section.footer {
+  padding-top: 140px;
+  padding-bottom: 0px;
+  background-color: #070c0f;
+  background-image: linear-gradient(180deg, #0d2708, rgba(1, 14, 4, 0.8)), url('../bg.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  font-size: 15px;
+}
+
+.item-number {
+  top: -3%
+}
+
+.bookmark-circle {
+  transform: translate3d(0px, 150px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+  opacity: 1;
+  transform-style: preserve-3d;
+}
+
+.logo.small {
+    font-family: "Dancing Script", cursive;
+    margin-top: 5px;
+    color: #f1b722;
+    font-weight: 700;
+    font-size: 3rem;
+}
+.w-form-note {
+  display: flow;
+  padding: 20px;
+  text-align: center;
+  background-color: transparent;
+  color: #fff;
+}
+
+.w-form-fail{
+  flex-direction: column;
+}
+.w-form-fail {
+  border-radius: 11px;
+  display: none;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #b63939;
+  font-size: 23px;
+  color: #fff;
+  font-weight: 500;
+}
+.w-form-fail.validation-summary-errors{
+  display:block;
+}
+.text-danger{
+  font-size: 20px;
+  color:#ff1515;
+}
+.image-header.contact {
+  height: 100vh;
+  min-height: 880px;
+  background-image: url("../bg.jpg");
+}
+.w-container .w-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.text-field.w-input{
+  background-color: transparent;
+}
+@media screen and (max-width: 767px){
+
+    .hero-section {
+      margin-top: 0px;
+    }
+
+    .hero-column {
+      height: fit-content;
+    }
+
+    .container.push-up {
+      margin-top: unset;
+    }
+
+    .search-wrapper {
+      display: block;
+      margin: 50px auto 50px;
+    }
+
+    .dynamic-page-header {
+      height: fit-content;
+      min-height: 0;
+    }
+
+    .item-number {
+      top: 8%
+    }
+
+    .section-message {
+      font-size: 25px;
+    }
+
+    .bookmark-circle {
+      transform: translate3d(0px, 50px, 0px)
+    }
+
+  .text-danger{
+    font-size: 16px;
+    color:#ff1515;
+  }
+  .button {
+    padding: 14px 20px 10px;
+    line-height: 22px;
+  }
+  .w-form-fail{
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .bookmark-circle.review-circle button {
+        transform: translateY(-3px);
+  }
+}
+
+@media screen and (min-width: 768px) {
+
+  .dynamic-header-overlay {
+    height: 110%;
+  }
+
+  .button.color:hover {
+    background-color:#fff;
+    color: #f1b722;
+    transition: all .3s ease-in;
+  }
+  .logo.small{
+    margin-top: 13px;
+  }
+}
+
