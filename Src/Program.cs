@@ -13,6 +13,16 @@ builder.Services.AddDefaultIdentity<IdentityUser>(
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddRazorPages();
 
+//Registering Google.
+builder.Services.AddAuthentication()
+    .AddGoogle(googleOptions =>
+    {
+        googleOptions.ClientId = 
+            builder.Configuration.GetSection("GoogleAuthSettings").GetValue<string>("ClientId");
+        googleOptions.ClientSecret = 
+            builder.Configuration.GetSection("GoogleAuthSettings").GetValue<string>("ClientSecret");
+    });
+
 builder.Services.Configure<IdentityOptions>(options =>
 {
     // Password settings.
@@ -39,17 +49,6 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.AccessDeniedPath = "/Identity/Account/AccessDenied";
     options.SlidingExpiration = true;
 });
-
-//Registering Google.
-builder.Services.AddAuthentication()
-    .AddGoogle(googleOptions =>
-    {
-        googleOptions.ClientId = 
-            builder.Configuration.GetSection("GoogleAuthSettings").GetValue<string>("ClientId");
-        googleOptions.ClientSecret = 
-            builder.Configuration.GetSection("GoogleAuthSettings").GetValue<string>("ClientSecret");
-    });
-
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.
