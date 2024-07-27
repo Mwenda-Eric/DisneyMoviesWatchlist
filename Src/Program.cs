@@ -4,10 +4,16 @@ using DisneyMoviesWatchlist.Src.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("DisneyMoviesDbContextConnection") ?? throw new InvalidOperationException("Connection string 'DisneyMoviesDbContextConnection' not found.");
+var connectionString = builder.Configuration.GetConnectionString("DisneyMoviesDbContextConnection") 
+                       ?? throw new InvalidOperationException("Connection string 'DisneyMoviesDbContextConnection' not found.");
 
+/*
 // Add services to the container.
-builder.Services.AddDbContext<DisneyMoviesDbContext>();
+builder.Services.AddDbContext<DisneyMoviesDbContext>( options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DisneyMoviesDB"))
+);*/
+
+builder.Services.AddDbContext<DisneyMoviesDbContext>( options => options.UseSqlServer(connectionString));
 
 builder.Services.AddDefaultIdentity<IdentityUser>(
     options => options.SignIn.RequireConfirmedAccount = false)
