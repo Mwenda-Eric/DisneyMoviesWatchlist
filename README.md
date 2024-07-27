@@ -14,7 +14,7 @@ The repository follows a clean architecture with separate layers for the data, s
 
 ### Interfaces
 #### IMovieRepository.cs
-
+```
 namespace DisneyMoviesWatchlist.Src.Repository
 {
     public interface IMovieRepository
