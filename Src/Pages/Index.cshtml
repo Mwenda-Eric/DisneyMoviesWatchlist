@@ -171,6 +171,18 @@
                                     @if (SignInManager.IsSignedIn(User))
                                     {
                                         <div class="item-number" style="right:51px">@movie.Rating</div>
+                                        <form method = "post">
+                                            <div class="item-number" style="right:-190px">
+                                                <button title='delete "@movie.Title" from Database' style="background-color:transparent;
+                                                    height:30px" asp-page-handler="Delete"
+                                                        asp-route-MovieId="@movie.MovieId">
+                                                <span class="material-symbols-outlined">
+                                                    delete
+                                                </span>
+                                                </button>
+                                            </div>
+                                        </form>
+                                        
                                         <form method="post">
                                             @if (!Model.Bookmarked(movie.MovieId))
                                             {

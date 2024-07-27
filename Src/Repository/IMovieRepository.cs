@@ -8,6 +8,8 @@ public interface IMovieRepository
     List<MovieDto> GetWatchList(string UserId);
     void AddToWatchList(string UserId, int MovieId);
     void RemoveFromWatchList(string UserId, int MovieId);
+    void DeleteFromDatabase(int MovieId);
+    void DeleteFromDatabase(string UserId, int MovieId);
     bool IsInWatchList(string UserId, int MovieId);
 
 }

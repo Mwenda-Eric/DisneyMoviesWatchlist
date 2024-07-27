@@ -62,6 +62,14 @@ public class MovieRepository : IMovieRepository
         if (x is null) return false;
         return true;
     }
+    
+    public bool IsInDatabase(int MovieId)
+    {
+        var x = context.DisneyMovies.Find(MovieId);
+        Console.WriteLine("Movie Has been found!");
+        if (x is null) return false;
+        return true;
+    }
 
     public void RemoveFromWatchList(string UserId, int MovieId)
     {
@@ -70,6 +78,37 @@ public class MovieRepository : IMovieRepository
             var movie = context.DisneyMovies.Find(MovieId);
             var x = context.MoviesAndUsers.Find(UserId, movie.MovieId);
             context.MoviesAndUsers.Remove(x);
+            context.SaveChanges();
+        }
+    }
+    
+    public void DeleteFromDatabase(int MovieId)
+    {
+        if (IsInDatabase(MovieId))
+        {
+            var movie = context.DisneyMovies.Find(MovieId);
+            Console.WriteLine($"Our Movie is {movie.Title}");
+            var x = context.MoviesAndUsers.Find(movie.MovieId);
+            context.MoviesAndUsers.Remove(x);
+            context.DisneyMovies.Remove(movie);
+            context.SaveChanges();
+        }
+    }
+    
+    public void DeleteFromDatabase(string UserId, int MovieId)
+    {
+        if (IsInDatabase(MovieId))
+        {
+            var movie = context.DisneyMovies.Find(MovieId);
+            Console.WriteLine($"Our Movie is {movie.Title}");
+            context.DisneyMovies.Remove(movie);
+
+            if (IsInWatchList(UserId, MovieId))
+            {
+                var x = context.MoviesAndUsers.Find(UserId, movie.MovieId);
+                context.MoviesAndUsers.Remove(x);
+
+            }
             context.SaveChanges();
         }
     }

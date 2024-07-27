@@ -74,6 +74,15 @@ namespace DisneyMoviesWatchlist.Src.Pages
         {
             var userId = userManager.GetUserId(User);
             movieRepo.RemoveFromWatchList(userId, MovieId);
+            //movieRepo.DeleteFromDatabase(MovieId);
+            
+            return RedirectToPage();
+        }
+
+        public IActionResult OnPostDelete(int MovieId)
+        {
+            var userId = userManager.GetUserId(User);
+            movieRepo.DeleteFromDatabase(userId, MovieId);
             
             return RedirectToPage();
         }

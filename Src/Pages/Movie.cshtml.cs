@@ -37,6 +37,13 @@ public class MovieModel : PageModel
         movieRepo.RemoveFromWatchList(userId, MovieId);
         return RedirectToPage();
     }
+    
+    public IActionResult OnPostDelete(int MovieId)
+    {
+        var userId = userManager.GetUserId(User);
+        movieRepo.DeleteFromDatabase(MovieId);
+        return RedirectToPage();
+    }
 
     public bool Bookmarked(int MovieId)
     {
