@@ -35,6 +35,39 @@ namespace DisneyMoviesWatchlist.Src.Repository
 - **Movie.cs**: Represents a movie entity.
 - **MovieDto.cs**: Represents a data transfer object for movies.
 
+```csharp
+public class Movie
+{
+    public int MovieId { get; set; }
+    public string Title { get; set; }
+    public string Year { get; set; }
+    public string Link { get; set; }
+    public string Image { get; set; }
+    public string Runtime { get; set; }
+    public string Genre { get; set; }
+    public string Summary { get; set; }
+    public string Rating { get; set; }
+    public string Metascore { get; set; }
+    public string Directors { get; set; }
+    public string Stars { get; set; }
+}
+public class MovieDto
+{
+    public int MovieId { get; set; }
+    public string Title { get; set; }
+    public string Year { get; set; }
+    public string Image { get; set; }
+    public string Rating { get; set; }
+    public string Genre { get; set; }
+}
+
+public class MovieAndUser
+{
+    public string UserId { get; set; }
+    public int MovieId { get; set; }
+}
+```
+
 ### Services
 - **MovieService.cs**: Implements business logic for managing movies and watchlists.
 
