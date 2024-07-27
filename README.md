@@ -1,6 +1,4 @@
-Here's the complete `ReadMe.md` with the provided content:
 
-```markdown
 # Disney Movies Watchlist
 
 ## Introduction
@@ -16,7 +14,7 @@ The repository follows a clean architecture with separate layers for the data, s
 
 ### Interfaces
 #### IMovieRepository.cs
-```csharp
+
 namespace DisneyMoviesWatchlist.Src.Repository
 {
     public interface IMovieRepository
